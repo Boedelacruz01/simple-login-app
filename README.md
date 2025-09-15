@@ -31,4 +31,4 @@ A simple Flutter login application demonstrating MVVM architecture pattern.
 1. Clone this repository:
 
 ```bash
-   git clone https://github.com/YOUR_USERNAME/flutter-login-app.git
+   git clone https://github.com/Boedelacruz01/simple-login-app.git
